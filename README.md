@@ -1,5 +1,5 @@
 # G-Kitchen-Cafe
-Developed a Web application for the G-Kitchen_cafe.
+Developed a Web application for the G-Kitchen-cafe.
 
 # Overview
 G-Kitchen-Cafe is a modern, user-friendly web application for a cafe business. The platform streamlines menu management,order processing, and customer engagement, providing both customers and staff with an efficient digital experience.
@@ -12,6 +12,6 @@ G-Kitchen-Cafe is a modern, user-friendly web application for a cafe business. T
 -**Responsive Design**: Smooth experience on desktop, tablet, and mobile devices.
 
 # Technologies Used
--**Frontend**: [HTML, CSS, Bootstrap]
--**Backend**: [PHP, JS, Vanilla]
+-**Frontend**: [HTML, CSS, Bootstrap.]
+-**Backend**: [PHP, JS, Vanilla.]
 -**Database**: [MYSQL]
